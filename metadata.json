@@ -1,0 +1,7 @@
+{
+  "name": "Twellium SCM Portal",
+  "description": "An industrial supply chain management portal for Twellium, featuring dashboard analytics, inventory tracking, and AI-powered operations assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
